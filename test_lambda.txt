@@ -1,0 +1,9 @@
+#### Test Event ###
+
+{
+  "httpMethod" : "GET",
+  "path" : "/example",
+  "queryStringParameters" : {
+    "query" :  "Write an article about NLP"
+  }
+}
